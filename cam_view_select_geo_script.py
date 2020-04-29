@@ -1,6 +1,5 @@
 import bpy
 import bmesh
-from mathutils import Vector
 from bpy_extras.object_utils import world_to_camera_view
 
 scene = bpy.context.scene
