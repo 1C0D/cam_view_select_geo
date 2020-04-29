@@ -1,6 +1,6 @@
 # cam_view_select_geo
 
-issue: for the moment this is selecting all vertices in cam field, even ones behind
+issue: for the moment this is selecting in cam field, but even ones hidden behind
 
 A script to select vertices of selected objects under cam view
 
